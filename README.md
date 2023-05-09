@@ -2,7 +2,10 @@
 ##############################
 git clone https://github.com/itzalif007/agnoob
 
+
 cd agnoob
+
+
 python itznoob.py
 #############################
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzalif007&show_icons=true&locale=en&layout=compact" alt="itzalif007" /></p>
